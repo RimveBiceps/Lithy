@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "626933314419",
+    "firebase_url": "https://lithy-fdc0d.firebaseio.com",
+    "project_id": "lithy-fdc0d",
+    "storage_bucket": "lithy-fdc0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626933314419:android:d17803f9783b28e5",
+        "android_client_info": {
+          "package_name": "com.example.lithy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626933314419-0t62859p1kfaelgakibgvdbb2pn6nn0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lithy",
+            "certificate_hash": "6c295819865320b7d6b79c4dea288c8951c036a9"
+          }
+        },
+        {
+          "client_id": "626933314419-nlhv50l9spon0q208m0qajjlamh7vko2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB59hYJmu1WGw61Bg46laJ2xHzdsDTiE64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626933314419-nlhv50l9spon0q208m0qajjlamh7vko2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
